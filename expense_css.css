@@ -1,0 +1,138 @@
+ *{
+    box-sizing: border-box;
+  }
+  header
+  {
+    background-color: rgb(131, 80, 249);
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  body
+  {
+    font-family:'Times New Roman', Times, serif;
+    line-height: 1.9;
+  }
+  .container
+  {
+    margin: auto;
+    width: 500px;
+    overflow: auto;
+    padding: 3rem 2rem;
+  }
+  #my-form
+  {
+    padding: 2rem;
+    background-color: #f4f4f4;
+  }
+  #my-form label
+  {
+    display: block;
+  }
+  
+  #my-form input[type="text"]
+  {
+    width: 100%;
+    padding: 10px 15px;
+    border: 0;
+    background-color: rgb(139, 140, 150);
+    color: #fff;
+    border-radius: 5px;
+    margin: 5px 0;
+  }
+  
+  #my-form input[type="number"]
+  {
+    width: 100%;
+    background-color: rgb(88, 85, 95);
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: #fff;
+    margin: 5px 0;
+    border: 0;
+  }
+  
+  #my-form select
+  {
+    width: 100%;
+    background-color: rgb(88, 85, 95);
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: #fff;
+    margin: 5px 0;
+    border: 0;
+  }
+  .btn
+  {
+    display: block;
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    margin: 5px 0px;
+    margin-top: 15px;
+    border: 0;
+    cursor: pointer;
+  }
+  
+  .btn:hover
+  {
+    background-color: grey;
+  }
+  
+  #users
+  {
+    background-color: rgb(72, 94, 117);
+    color:#fff;
+    font-size: 10px;
+    margin: 10px;
+    
+  }
+  
+   .a1{
+    text-align: center;
+    color: orange;
+    size: 30px;
+    
+  
+  }
+  #b1{
+    color: black;
+  }
+  .a2
+  {border: 3px solid #E65100;
+  border-radius: 10px;
+  height: 278%;
+  width: 49%;
+  margin-left: 400px;
+  position: relative;
+  top: -761px;
+  background-color: white;}
+  .a3{
+    width: 95%;
+           height: 34px;
+           margin-left: 11px;
+           margin-top: -12px;
+  }
+  .a4{
+    margin-left: 11px;
+          margin-top: 11px;
+  }
+  #b2{
+    width: 46%;
+    height: 39px;
+  
+         
+  }
+  .a5{
+    border: 3px solid #F57C00;;
+             padding: 10px;
+             margin: 9px;
+             border-radius: 5px;
+             background-color: #F57C00;
+             text-align: center;
+             font-size: 16px;
+             color: whitesmoke;
+             font: icon;
+  }	
